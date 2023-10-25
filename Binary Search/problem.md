@@ -1,6 +1,6 @@
 # Binary Search
 
-`Binary Search` algorithm makes searching faster. Compared to `Linear Search` it is much more faster.
+`Binary Search` algorithm makes searching faster. Compared to `Linear Search` it is much more faster, the time complexity is `O(log n)`.
 
 It needs a `Sorted List` and an `Item` to search as input, if it founds the item it returns the position of that item from the list, or else it returns `None`.
 
